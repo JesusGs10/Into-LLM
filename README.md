@@ -1,6 +1,6 @@
 ## Introducción a los LLM
 
-Este repositorio documenta el desarrollo e implementación progresiva de varios modelos de lenguaje, desde los conceptos fundamentales hasta arquitecturas modernas como los Transformers. El objetivo principal es construir y entender modelos generativos de texto a nivel de carácter, explorando la evolución de las técnicas y arquitecturas.
+Este repositorio documenta el desarrollo e implementación progresiva de varios modelos de lenguaje, desde los conceptos fundamentales hasta arquitecturas modernas como los Transformers. El objetivo principal es construir y entender modelos generativos de texto a nivel de carácter, explorando la evolución de las técnicas y arquitecturas, basándonos en la serie de tutoriales **Neural Networks: Zero to Hero** de **Andrej Karpathy** https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ.
 
 ### Contenido Detallado del Proyecto:
 
